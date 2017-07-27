@@ -9,6 +9,7 @@
   $FG   = array($MM - $BG[0], $MM - $BG[1], $MM - $BG[2]);
   $BGS  = vsprintf('#%02x%02x%02x', $BG);
   $FGS  = vsprintf('#%02x%02x%02x', $FG);
+  $ERR  = "E" . "R" . "R" . ...
 ?>
 <head>
   <meta http-equiv="refresh" content="5;URL=./">

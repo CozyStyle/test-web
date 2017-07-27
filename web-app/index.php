@@ -20,5 +20,8 @@
 <body>
   <h1>Hello world</h1>
   <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul>
+  <div style="font-size: 3.5em; font-weight: bold; border: 1px solid #f36;">
+    CosyStyle
+  </div>
 </body>
 </html>
